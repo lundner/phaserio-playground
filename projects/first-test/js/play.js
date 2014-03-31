@@ -17,11 +17,11 @@ Game.Play = function(game) {
 	};
 
 	this.preload = function() {
-		game.load.image('blue', 'sprites/blue.png');
-		game.load.image('green', 'sprites/green.png');
-		game.load.image('orange', 'sprites/orange.png');
-		game.load.image('purple', 'sprites/purple.png');
-		game.load.image('red', 'sprites/red.png');
+		game.load.image('blue', '../../sprites/blue.png');
+		game.load.image('green', '../../sprites/green.png');
+		game.load.image('orange', '../../sprites/orange.png');
+		game.load.image('purple', '../../sprites/purple.png');
+		game.load.image('red', '../../sprites/red.png');
 	};
 
 	this.create = function() {

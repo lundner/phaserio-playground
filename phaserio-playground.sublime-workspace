@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_render",
+				"_renderFunction"
+			],
+			[
+				"_canvas",
+				"_canvasSprite"
+			],
+			[
+				"move",
+				"moveStepSize"
+			],
+			[
+				"coll",
+				"collideWorldBounds"
+			],
+			[
+				"backgr",
+				"backgroundColor"
+			],
+			[
+				"backg",
+				"backgroundHeight"
+			],
+			[
+				"getElem",
+				"getElementsByTagName"
+			],
+			[
+				"mouse",
+				"mouseoverTimeout"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"imgOn",
+				"imgOnError"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"outer",
+				"outerHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 797,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/me/Library/Application Support/Sublime Text 3/Packages/User/SimpleHTTPServer.sublime-build",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/User/SimpleHTTPServer.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"JSHINT",
+				"JSHint"
+			],
+			[
+				"",
+				"JSHint"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/me/Development/games/phaserio-playground/projects/first-test/js/play.js",
+		"/Users/me/Development/games/phaserio-playground/projects/canvas-sprite/index.html",
+		"/Users/me/Development/games/phaserio-playground/projects/canvas-sprite/main.js",
+		"/Users/me/Development/games/phaserio-playground/projects/first-test/js/game.js",
+		"/Users/me/Development/games/phaserio-playground/projects/first-test/index.html",
+		"/Users/me/Development/games/phaserio-playground/README.md",
+		"/Users/me/.ssh/github_rsa.pub",
+		"/Users/me/Development/games/hellophaser/js/static.js",
+		"/Users/me/Development/games/hellophaser/index.html",
+		"/Users/me/Development/games/hellophaser/js/game.js",
+		"/Users/me/Development/games/hellophaser/js/play.js",
+		"/Users/me/Development/games/hellophaser/js/menu.js",
+		"/Users/me/Development/games/hellophaser/filters/Fire.js",
+		"/Users/me/Development/games/hellophaser/main.js",
+		"/Users/me/Development/games/hellophaser/sprites/tiles.json",
+		"/Users/me/Development/games/hellophaser/js/load.js",
+		"/Users/me/Development/games/hellophaser/js/end.js",
+		"/Users/me/Development/games/hellophaser/phaser.png",
+		"/Users/me/Development/games/Molecule/index.html",
+		"/Users/me/Development/games/Molecule/main.js",
+		"/Users/me/Development/wintersmith/src/plugins/page.coffee",
+		"/Users/me/Development/wintersmith/examples/blog/config.json",
+		"/Users/me/Development/wintersmith/src/core/environment.coffee",
+		"/Users/me/Development/wintersmith/src/core/generator.coffee",
+		"/Users/me/Development/wintersmith/README.md",
+		"/Users/me/Development/wintersmith/src/plugins/markdown.coffee",
+		"/Users/me/Development/wintersmith/src/core/content.coffee",
+		"/Users/me/Development/wintersmith/src/index.coffee",
+		"/Users/me/Development/wintersmith/examples/blog/plugins/paginator.coffee",
+		"/Users/me/Development/wintersmith/src/core/server.coffee",
+		"/Users/me/Development/wintersmith/package.json",
+		"/Users/me/Development/wintersmith/src/plugins/jade.coffee",
+		"/Users/me/Development/lundner-com/build/index.html",
+		"/Users/me/Development/lundner-com/plugins/thumbnailer.js",
+		"/Users/me/Development/lundner-com/node_modules/thumbnailer.js",
+		"/Users/me/Development/lundner-com/contents/scripts/jquery.js",
+		"/Users/me/Development/lundner-com/contents/style.css",
+		"/Users/me/Development/lundner-com/contents/justified_gallery.css",
+		"/Users/me/Development/lundner-com/plugins/thumbnailer.coffee",
+		"/Users/me/Development/lundner-com/contents/scripts/justfied_gallery.js",
+		"/Users/me/Development/lundner-com/config.json",
+		"/Users/me/Development/lunnder-com/contents/styles/vendor/elements.less",
+		"/Users/me/Downloads/chelseastudio/LICENSE",
+		"/Library/Internet Plug-Ins/Silverlight.plugin/Contents/Info.plist",
+		"/Users/me/.zshrc",
+		"/etc/hosts",
+		"/Users/me/.oh-my-zsh/themes/jreese.zsh-theme",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/me/Library/Caches/com.binarynights.ForkLift2/#8/nodeapp.js",
+		"/Users/me/Library/Caches/com.binarynights.ForkLift2/#5/package.json",
+		"/Users/me/Library/Caches/com.binarynights.ForkLift2/#7/pythonapp.py",
+		"/Users/me/Desktop/experiments/javascript/test.html",
+		"/Users/me/Library/Caches/com.binarynights.ForkLift2/#4/package.json",
+		"/Users/me/Library/Caches/com.binarynights.ForkLift2/#1/config.js.localhost",
+		"/Users/me/Development/imagehover/imagehover.safariextension/imagehover.js",
+		"/Users/me/Development/imagehover/imagehover.js",
+		"/Users/me/Downloads/ImgProgressSample.html",
+		"/Users/me/Development/imagehover/manifest.json",
+		"/Users/me/Development/chrome-images/popup.html",
+		"/Users/me/Development/chrome-images/plugin.css",
+		"/Users/me/Development/chrome-images/plugin.js",
+		"/Users/me/Development/chrome-images/manifest.json",
+		"/Users/me/Downloads/source/source files/Net Button.safariextension/global.html",
+		"/Users/me/Development/chrome-images/plugin.html",
+		"/Users/me/Development/pi/fire_led/fire_led.py",
+		"/Users/me/Development/pi/fire_led/cam.py",
+		"/Users/me/Development/pi/fire_led/LedStrip_WS2801.py",
+		"/Users/me/Development/pi/fire_led/sftp-config.json",
+		"/Users/me/Development/pi/fire_led",
+		"/Users/me/Development/svg/wifi_svg.svg",
+		"/Users/me/Desktop/foo.js",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/me/.bash_profile",
+		"/Users/me/Desktop/function.js",
+		"/Users/me/.bash_",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/README.md",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/Main.sublime-menu",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/JSHint.sublime-build",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/JSHint.py",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/Default.sublime-commands",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/Default (Windows).sublime-keymap",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/Default (OSX).sublime-keymap",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/Default (Linux).sublime-keymap",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/Context.sublime-menu",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/JSHint/reporter.js",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/me/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"backgroundColor",
+			"world",
+			"gravity",
+			"0.8",
+			"this.game",
+			"Got a change event for item not previously in tree",
+			"StaticFile",
+			"staticfile",
+			"PaginatorPage",
+			"env.plugins.Page",
+			"generator",
+			"ContentTree",
+			"tree",
+			"staticFile",
+			"static",
+			"StaticPlugin",
+			"JsonPage",
+			"registerContentPlugin",
+			"registerContetn",
+			"not implement",
+			"static",
+			"staticplugin",
+			"ContentTree",
+			"encountered when resolving generator output",
+			"generator",
+			"generators",
+			"registerGenerator",
+			"minimatch",
+			"pattern",
+			"registerTemplate",
+			".jade",
+			"match",
+			"registerContentPlugin",
+			"_",
+			"underscore",
+			"_",
+			"contentplugin",
+			"match",
+			"regex",
+			"contents",
+			"registerGenerator",
+			"getArticles",
+			"paginator",
+			"options",
+			"text",
+			"env.plugins.Page",
+			"getArticles",
+			"paginator",
+			"generator",
+			"console.log",
+			"MyPlugin",
+			"jpeg",
+			"thumbs/",
+			"data-src",
+			"bare ",
+			"jpg",
+			"width=\"300px\"",
+			"console",
+			"console.",
+			"filters",
+			"slee",
+			"strip"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Thumbnailer",
+			"jpg",
+			"",
+			"src",
+			"jpeg",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/me/Library/Application Support/Sublime Text 3/Packages/User/SimpleHTTPServer.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "phaserio-playground.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
